@@ -1,0 +1,11 @@
+server:
+  port: 9627
+
+opentool:
+  enabled: true
+  # API key配置，支持单个或多个key（用逗号分隔）,示例: key1,key2,key3
+  api-key: demo-api-key
+
+logging:
+  level:
+    com.litevar.opentool: DEBUG
