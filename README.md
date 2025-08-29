@@ -108,7 +108,7 @@ Configure via `application.yml`:
 ```yaml
 opentool:
   enabled: true
-  # API key配置，支持单个或多个key（用逗号分隔）,示例: key1,key2,key3
+  # API key configuration, supports single or multiple keys (comma-separated), example: key1,key2,key3
   api-key: demo-api-key
 ```
 
